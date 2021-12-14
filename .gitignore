@@ -57,3 +57,4 @@ CATKIN_IGNORE
 
 # MacOs sprecifics
 *.DS_Store
+*.icloud
